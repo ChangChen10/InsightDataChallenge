@@ -1,0 +1,17 @@
+a	2
+big	2
+bigone	1
+call	2
+every	4
+everyone	2
+get	2
+holler	2
+make	4
+meeting	2
+out	4
+re	1
+shout	4
+so	2
+the	1
+we	1
+who	4
